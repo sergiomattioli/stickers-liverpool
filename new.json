@@ -219,7 +219,7 @@
          ]
       },
       {
-         "identifier":"kloppa1b",
+         "identifier":"kloppa1c",
          "name":"Klopp (3)",
          "publisher":"Ant Space",
          "tray_image_file":"tray.png",
@@ -281,12 +281,6 @@
             },
             {
                "image_file":"9.webp",
-               "emojis":[
-
-               ]
-            },
-            {
-               "image_file":"10.webp",
                "emojis":[
 
                ]
